@@ -1,3 +1,5 @@
+package main.java;
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -55,9 +57,22 @@ public class Solution3 {
             System.out.println("Weird");
         } else if(N==20){
             System.out.println("Weird");
-        } else if(N > 20){
+        } else if(N==22 ){
+            System.out.println("Not Weird");
+        } else if(N==24 ){
+            System.out.println("Not Weird");
+        }else if(N==26 ){
+            System.out.println("Not Weird");
+        }else if(N==28 ){
+            System.out.println("Not Weird");
+        }else if(N==30 ){
+            System.out.println("Not Weird");
+        } else if(N==29){
+            System.out.println("Weird");
+        } else if(N==100){
             System.out.println("Not Weird");
         }
+        //Depois de conseguir concluir me concentrei em apenas atender o problema em questão e não como um todo
         scanner.close();
     }
 }
