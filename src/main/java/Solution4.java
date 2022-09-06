@@ -1,7 +1,9 @@
 package main.java;
 
-import java.util.Scanner;
 
+import java.util.Scanner;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 public class Solution4 {
 
     public static void main(String[] args) {
@@ -12,8 +14,12 @@ public class Solution4 {
         scan.nextLine(); // Para que o nextInt(); não interfira com nossa String, utilizamos essa linha
         String s = scan.nextLine();
 
-        System.out.println("String: " + s );
-        System.out.println("Double: " + d);
-        System.out.println("Int: " + i);
+        Logger logger
+                = Logger.getLogger(
+                Solution4.class.getName());
+
+        logger.log(Level.INFO,"String: {}", s );
+        logger.log(Level.WARNING,"Double: {}", d);
+        logger.log(Level.SEVERE,"Int: {}", i);
     }
 }
