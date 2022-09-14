@@ -1,0 +1,49 @@
+
+l
+java:S1192"JDefine a constant instead of duplicating this literal "Not Weird" 8 times.(―ύυ¶ϋÿÿÿÿ8Δ°εω®0
+i
+java:S1192"GDefine a constant instead of duplicating this literal "Weird" 19 times.(Γ€Ω¤ψÿÿÿÿ8Ξ°εω®0
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ³΄ν8Π°εω®0
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ηµν‘8ι±εω®0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Γ€Ω¤ψÿÿÿÿ8τ±εω®0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(―ύυ¶ϋÿÿÿÿ8χ±εω®0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Γ€Ω¤ψÿÿÿÿ8ω±εω®0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(―ύυ¶ϋÿÿÿÿ8ϋ±εω®0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Γ€Ω¤ψÿÿÿÿ8ύ±εω®0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Γ€Ω¤ψÿÿÿÿ8ÿ±εω®0
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(Γ€Ω¤ψÿÿÿÿ8²εω®0
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Γ€Ω¤ψÿÿÿÿ8ƒ²εω®0
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(Γ€Ω¤ψÿÿÿÿ8…²εω®0
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(Γ€Ω¤ψÿÿÿÿ8²εω®0
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(Γ€Ω¤ψÿÿÿÿ8‘²εω®0
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(Γ€Ω¤ψÿÿÿÿ8”²εω®0
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(Γ€Ω¤ψÿÿÿÿ8—²εω®0
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(Γ€Ω¤ψÿÿÿÿ8›²εω®0
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(Γ€Ω¤ψÿÿÿÿ8 ²εω®0
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(Γ€Ω¤ψÿÿÿÿ8£²εω®0
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(Γ€Ω¤ψÿÿÿÿ8©²εω®0
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(Γ€Ω¤ψÿÿÿÿ8®²εω®0
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(Γ€Ω¤ψÿÿÿÿ8·²εω®0
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(Γ€Ω¤ψÿÿÿÿ8»²εω®0
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(―ύυ¶ϋÿÿÿÿ8Α²εω®0
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(―ύυ¶ϋÿÿÿÿ8Ζ²εω®0
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(―ύυ¶ϋÿÿÿÿ8Θ²εω®0
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(―ύυ¶ϋÿÿÿÿ8Λ²εω®0
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(―ύυ¶ϋÿÿÿÿ8Ξ²εω®0
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(Γ€Ω¤ψÿÿÿÿ8Σ²εω®0
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(―ύυ¶ϋÿÿÿÿ8Φ²εω®0
+O
+java:S1135K"2Complete the task associated to this TODO comment.(„Σ»Τ8Ϊ²εω®0
+@
+java:S1128"$Remove this unused import 'java.io'.(¬›γD8ξ²εω®0
+C
+java:S1128"&Remove this unused import 'java.math'.(βξ©8π²εω®0
+G
+java:S1128"*Remove this unused import 'java.security'.(θΫς§8ς²εω®0
+C
+java:S1128"&Remove this unused import 'java.text'.(λΌΘν8τ²εω®0
+M
+java:S1128"1Remove this unused import 'java.util.concurrent'.(νΠΆ68ψ²εω®0
+I
+java:S1128	",Remove this unused import 'java.util.regex'.(£‘¬ή8ύ²εω®0
