@@ -7,3 +7,17 @@ L
 src/main/java/Solution4.java,0\1\01c818189660b3e796b9306467f107649e7b6a1b
 L
 src/main/java/Solution5.java,c\6\c603f5e07be693004aa743a9f5d06ed323f6117a
+L
+src/main/java/Solution8.java,6\5\6569d6cb754d424e357c954657912d155c9b8153
+L
+src/main/java/Solution6.java,6\2\625635392a88a47f6457a3403393f913caeafa6a
+L
+src/main/java/Solution7.java,b\8\b844872c237693384ae4d104b87652ec26ad1bc1
+L
+src/main/java/Solution1.java,0\1\013abfeb68b19332a0882b647aa5d186ef9dc373
+L
+src/main/java/Solution9.java,0\5\054eab4929ddc786fb005405fe3bdf9aca4c2dbb
+M
+src/main/java/Solution10.java,1\2\12d26730d813811b34a11f0ec14f53ac7527f727
+M
+src/main/java/Solution11.java,8\6\8625da36d0c145890fa436fc16e111aad710eb7c
