@@ -21,3 +21,11 @@ M
 src/main/java/Solution10.java,1\2\12d26730d813811b34a11f0ec14f53ac7527f727
 M
 src/main/java/Solution11.java,8\6\8625da36d0c145890fa436fc16e111aad710eb7c
+M
+src/main/java/Solution12.java,0\d\0dd3b4fa7fa147079c5ddb4c31d00912fb78feac
+M
+src/main/java/Solution13.java,7\c\7c685fba75ac5755d63e45e29e531f1a0af8db3c
+M
+src/main/java/Solution14.java,8\7\876423c435b77a4d1a1a0eb0e2c785358863c146
+M
+src/main/java/Solution15.java,c\3\c337960a6a97f17c886c74440d98acb79f5e8027
