@@ -29,3 +29,11 @@ M
 src/main/java/Solution14.java,8\7\876423c435b77a4d1a1a0eb0e2c785358863c146
 M
 src/main/java/Solution15.java,c\3\c337960a6a97f17c886c74440d98acb79f5e8027
+M
+src/main/java/Solution19.java,a\5\a5e2cc225a5eaedf15d90cfedfc43e12dea88650
+M
+src/main/java/Solution18.java,7\d\7d62f4e44a11505eda279cd0d31f98376ff4c93b
+M
+src/main/java/Solution16.java,5\d\5d3138583843dec5f1875c15a48080908cc1527b
+M
+src/main/java/Solution17.java,0\a\0ae1a5777b8318c7c9323ff18924b8a6b026aa27
